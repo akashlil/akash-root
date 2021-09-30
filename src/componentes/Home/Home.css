@@ -1,0 +1,7 @@
+.search-input {
+  margin-left: 150px;
+  width: 500px;
+  border: 1px solid red;
+  border-radius: 5px;
+  outline-color: red;
+}
